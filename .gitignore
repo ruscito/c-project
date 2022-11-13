@@ -1,0 +1,12 @@
+
+# directories
+build/
+#.vscode/
+html/
+latex/
+
+
+# file
+.DS_Store
+
+

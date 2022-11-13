@@ -1,0 +1,16 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#242739",
+        "editor.background": "#242739",
+        "tab.activeBackground": "#37394c",
+        "tab.activeBorder": "#ffbf00",
+        "tab.inactiveBackground": "#44475a",
+        "activityBar.activeBackground": "#37394c",
+        "activityBar.background": "#44475a",
+        "activityBar.activeBorder": "#ffbf00",
+        "activityBar.activeFocusBorder": "#ffbf00",
+        "sideBarSectionHeader.background": "#44475a",
+    }
+}

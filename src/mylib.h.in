@@ -1,0 +1,27 @@
+#pragma once
+
+#define MYLIB_VERSION_MAJOR @PROJECT_VERSION_MAJOR@
+#define MYLIB_VERSION_MINOR @PROJECT_VERSION_MINOR@
+#define MYLIB_VERSION_PATCH @PROJECT_VERSION_PATCH@
+
+/**
+ * @brief print library information
+ * 
+ */
+const char* print_info();
+
+/**
+ * @brief add 10 to the input paramter
+ * 
+ * @param the input parameter
+ * @return the result
+ */
+int bar(int val);
+
+/**
+ * @brief add 10 to the input paramter
+ * 
+ * @param the input parameter
+ * @return the result
+ */
+int foo(int val);
