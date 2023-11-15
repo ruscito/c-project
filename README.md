@@ -20,7 +20,7 @@ This is a basic template for C projects that include documenting, testing and co
 ├── docs
 │   ├── Doxyfile
 │   └── html/
-├── exterN
+├── extern
 │   ├── CMakesLists.txt
 │   ├── ...
 ├── src
